@@ -6,6 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-###Introduction
+##Introduction
 
 This is the introduction to the new project involving both git and github.
